@@ -6,8 +6,6 @@ Simple and easy-to-use interface. 🙌
 
 Calculates the tip amount based on the bill amount and percentage of the tip. 
 
-🧮Ability to split the bill and tip amount among multiple people. 👨‍👩‍👧‍👦
-
 Installation
 To use TipTime, simply download the APK file from the latest release and install it on your Android device.
 
